@@ -7,7 +7,7 @@
 $servidor = 'localhost';
 $usuario = 'root';
 $senha = '';
-$banco = 'omni';
+$banco = 'data_base';
 
 // CONFIGURAÇÕES DO SISTEMA
 define('SISTEMA', 'ERP');
