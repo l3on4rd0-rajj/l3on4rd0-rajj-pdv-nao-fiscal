@@ -198,7 +198,7 @@ if($total_reg > 0){
 							document.write(new Date().getFullYear())
 						</script>.
 						Desenvolvido por
-						<a href="https://www.rafasales.com.br" class="font-weight-bold" target="_blank">Rafael Sales</a>.
+						<a href="https://www.radesh.com.br" class="font-weight-bold" target="_blank">radesh</a>.
 					</div>
 				</div>
 			</div>
